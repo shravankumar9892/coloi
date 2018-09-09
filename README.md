@@ -3,7 +3,14 @@
 ---
 >Our motive is to make images descriptive by itself.
 ***
-Gray scale images used for [training](https://drive.google.com/open?id=1pMuib5aju6DYfxZGOZQTW7PXV4Qt3ges) are saved as a .npy file 
+### Files:
+resize.py : Used to resize randomly sized images from the [dataset](https://www.kaggle.com/shravankumar9892/image-colorization) and to convert it into any permissible type given by the opencv
+
+chrominance.py : Is used to convert the [dataset](https://www.kaggle.com/shravankumar9892/image-colorization) into u and v components of the CIELUV color space.
+
+model.py: Contains the customized VGG16 model, edited according to our purpose.
+
+Gray scale images used for [training](https://www.kaggle.com/shravankumar9892/image-colorization) are saved as a .npy file 
 
 Contributers:
 ---
