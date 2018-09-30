@@ -3,6 +3,7 @@
 ---
 >Prototype model for the TI challenge.
 ***
+![Colorization](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWr7Iig3lFu55QUJliQ3ckD2-uOth8ik5T0WWZ5Y5U7njIXOnZtA)
 ### Files:
 resize.py : Used to resize randomly sized images from the [dataset](https://www.kaggle.com/shravankumar9892/image-colorization) and to convert it into any permissible type given by the opencv
 
@@ -12,9 +13,6 @@ coloi.ipynb: Contains the prototype model for the TI challenge. It can easily de
 
 Gray scale images used for [training](https://www.kaggle.com/shravankumar9892/image-colorization) are saved as a .npy file 
 
-Contributers:
----
-- [Shravan Shetty](https://www.linkedin.com/in/shettyshravankumar/)
-- [Aman Mishra](#)
-- [Gulshan Rana](#)
-- [Sarvesh Dubey](#)
+
+For further details contact [Shravan Shetty](https://www.linkedin.com/in/shettyshravankumar/)
+
