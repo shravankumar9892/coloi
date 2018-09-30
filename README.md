@@ -14,5 +14,5 @@ coloi.ipynb: Contains the prototype model for the TI challenge. It can easily de
 Gray scale images used for [training](https://www.kaggle.com/shravankumar9892/image-colorization) are saved as a .npy file 
 
 
-For further details contact [Shravan Shetty](https://www.linkedin.com/in/shettyshravankumar/)
+For further details contact: [Shravan Shetty](https://www.linkedin.com/in/shettyshravankumar/)
 
